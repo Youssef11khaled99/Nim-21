@@ -9,7 +9,7 @@ The object of the game is to not take the last coin form "21".
 -> Every turn we subtract what the last player to from the remaining coins.<br />
 -> The one who take the last coin will be the loser.<br /><br />
 
- **********************************For example**********************************<br />
+ ***For example:***<br />
       Welcome to Nim 21 game! Take one to three coins per turn!<br />
       Coins:  21<br />
       Player 1's turn: 1<br />
