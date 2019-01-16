@@ -1,18 +1,18 @@
 # Nim-21
--A game built by Python programming language.__
+-A game built by Python programming language._
 
-Here is a counting game to try with a partner.__
+Here is a counting game to try with a partner.
 
-The object of the game is to not take the last coin form "21".____
+The object of the game is to not take the last coin form "21".
 
--> Each person may take one, two, or three coins per turn.__
--> Every turn we subtract what the last player to from the remaining coins.__
--> The one who take the last coin will be the loser.____
+-> Each person may take one, two, or three coins per turn.
+-> Every turn we subtract what the last player to from the remaining coins.
+-> The one who take the last coin will be the loser.
 
- **********************************For example**********************************__
+ **********************************For example**********************************<br />
       Welcome to Nim 21 game! Take one to three coins per turn!/n__
-      Coins:  21__
-      Player 1's turn: 1__
+      Coins:  21<br />
+      Player 1's turn: 1<br />
       Coins:  20__
       Player 2's turn: 2__
       Coins:  18__
